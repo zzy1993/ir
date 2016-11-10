@@ -1,0 +1,2 @@
+
+	Comparing '1-2-1.txt' (BFS) with '1-2-2.txt' (DFS), the previous 5 links of BFS are better related to the given keyword 'solar'. This implies the BFS has better effect in page ranking than DFS.
