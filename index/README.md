@@ -1,9 +1,9 @@
 
-[1] Generate the inverse index list from provided documents
+# Generate the inverse index list from provided documents
 
 task1.py: corpus.txt >> indexTC.txt
 
-[2] Generate the ranking result through 3 methods: VSM1, VSM2, BM25
+# Generate the ranking result through 3 methods: VSM1, VSM2, BM25
 
 VSM1,	task2a.py: indexTC.txt >> resultsVSM1.txt
 
@@ -11,7 +11,7 @@ VSM2,	task2b.py: indexTC.txt >> resultsVSM2.txt
 
 BM25,	task2c.py: indexTC.txt >> resultsBM25.txt
 
-[3] Generate the comparison result from previous rankings
+# Generate the comparison result from previous rankings
 
 task3.py
 
@@ -23,6 +23,6 @@ task3.py
 	{u'1': 0.3593220338983051, u'3': 0.36268343815513626, u'2': 0.21393034825870647, u'4': 0.2631578947368421}
 }
 
-[4] Generate the inverse index list from Wikipedia
+# Generate the inverse index list from Wikipedia
 
 task_extra.py: dic_html.txt >> wiki_index.txt
