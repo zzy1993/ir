@@ -1,5 +1,5 @@
 
-Task 1-1
+#Task 1-1
 
 	Code file is given as 'singlePage.py'. The file is compiled through 'python <file name>'. The links of crawled pages are output on terminal as follows:
 
@@ -10,7 +10,7 @@ Task 1-1
 	Meanwhile, the html for each crawled url is generated as dictionary and the file path is given by 'path2'
 
 
-Task 1-2
+#Task 1-2
 
 	Code file of BFS is given as 'bfs.py' and code file of DFS is given as 'bfs.py'. Significantly, either file have not considered the text inside the url. The file is compiled through 'python <file name>'. The links of crawled pages are output on terminal as follows:
 
